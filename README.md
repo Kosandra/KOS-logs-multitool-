@@ -1,2 +1,2 @@
-# KOS-logs-multitool-
+# KOS-multitool
 Universal logs multitool software
